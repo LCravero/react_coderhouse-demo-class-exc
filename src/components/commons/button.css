@@ -1,0 +1,17 @@
+.button {
+  border-radius: 30px;
+}
+
+.button.button--primary {
+  background-color: #0a66c2;
+}
+.button.button--secondary {
+  background-color: transparent;
+  border-color: #0a66c2;
+  color: #0a66c2;
+}
+.button.button--tertiary {
+  background-color: transparent;
+  border-color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.6);
+}
